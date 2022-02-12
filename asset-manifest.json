@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Slick_3d_Slider/static/css/main.2ef5170d.css",
+    "main.js": "/React_Slick_3d_Slider/static/js/main.83311751.js",
+    "static/media/Creative writing-rafiki.png": "/React_Slick_3d_Slider/static/media/Creative writing-rafiki.1dfe0065481c4844ed9f.png",
+    "static/media/Researchers-rafiki.png": "/React_Slick_3d_Slider/static/media/Researchers-rafiki.86f1ee100d3eea1c6f55.png",
+    "static/media/User research-rafiki.png": "/React_Slick_3d_Slider/static/media/User research-rafiki.851006839ab3ae352325.png",
+    "static/media/Football Goal-rafiki.png": "/React_Slick_3d_Slider/static/media/Football Goal-rafiki.8b6da152a84542ab5505.png",
+    "static/media/Consulting-rafiki.png": "/React_Slick_3d_Slider/static/media/Consulting-rafiki.b762196a58abf311ed31.png",
+    "static/media/slick.svg": "/React_Slick_3d_Slider/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React_Slick_3d_Slider/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React_Slick_3d_Slider/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React_Slick_3d_Slider/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React_Slick_3d_Slider/index.html",
+    "main.2ef5170d.css.map": "/React_Slick_3d_Slider/static/css/main.2ef5170d.css.map",
+    "main.83311751.js.map": "/React_Slick_3d_Slider/static/js/main.83311751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef5170d.css",
+    "static/js/main.83311751.js"
+  ]
+}
